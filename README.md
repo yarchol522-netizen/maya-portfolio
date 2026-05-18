@@ -1,2 +1,41 @@
-# maya chol's portfolio
-I am an aspiring software engineer passionate about web development and creating problem solving 
+
+# Maya Chol - Portfolio
+
+Welcome to my personal developer portfolio. This project showcases my journey in front-end development using HTML, CSS, and JavaScript.
+
+---
+
+## 👩‍💻 About Me
+I am an aspiring software engineer passionate about building clean, responsive, and user-friendly web applications. I enjoy learning, improving my skills, and creating real-world projects.
+
+---
+
+## 🚀 Projects
+
+### Job Board App
+A simple job board web application that displays job listings with a clean and responsive design.
+
+### Business Website
+A modern business website built to showcase services and create a professional online presence.
+
+---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 🎯 Goal
+To grow as a software engineer and build impactful projects while improving my problem-solving and design skills.
+
+---
+
+## 📫 Contact
+You can find all my projects here on GitHub.
+
+---
+
+⭐ Thank you for visiting my portfolio!
