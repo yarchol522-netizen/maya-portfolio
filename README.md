@@ -2,6 +2,8 @@
 # Maya Chol - Portfolio
 
 Welcome to my personal developer portfolio. This project showcases my journey in front-end development using HTML, CSS, and JavaScript.
+https://github.com/yarchol522-netizen/maya-portfolio.git
+ https://yarchol522-netizen.github.io/maya-portfolio/
 
 ---
 
@@ -15,10 +17,12 @@ I am an aspiring software engineer passionate about building clean, responsive, 
 ### Job Board App
 A simple job board web application that displays job listings with a clean and responsive design.
 https://github.com/yarchol522-netizen/job-board-app.git
+ https://yarchol522-netizen.github.io/job-board-app/
 
 ### Business Website
 A modern business website built to showcase services and create a professional online presence.
 https://github.com/yarchol522-netizen/business-website-.git
+ https://yarchol522-netizen.github.io/business-website-/
 
 ---
 
